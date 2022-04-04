@@ -1,0 +1,23 @@
+{
+  "name": "rahul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahulkishore1995/u4c4-exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahulkishore1995/u4c4-exam/issues"
+  },
+  "homepage": "https://github.com/Rahulkishore1995/u4c4-exam#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
